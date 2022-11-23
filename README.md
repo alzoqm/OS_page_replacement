@@ -2,7 +2,7 @@
 page replacement 알고리즘을 구현하고 실행하는 코드입니다. <br>
 Optimal, FIFO, LIFU, LRU, LFU, Second-Chance(SC)가 구현되어 있습니다. <br>
 ```
-git https://github.com/alzoqm/OS_page_replacement_algorithm.git
+git clone https://github.com/alzoqm/OS_page_replacement_algorithm.git
 ```
 # 사용 방법
 1. 실행을 위해선 해당 코드가 있는 폴더에 들어가 ./a.out 명령어를 통해 실행합니다. <br>
